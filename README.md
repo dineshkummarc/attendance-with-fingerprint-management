@@ -1,4 +1,3 @@
-
 # ===================
 # 🛑  We no longer support this system, please see the latest version with <a href="https://codecanyon.net/item/attendance-with-fingerprint-android-system-managemnet/25407573">Laravel here</a> 🛑 
 # ===================
@@ -31,7 +30,6 @@ https://codecanyon.net/item/attendance-with-fingerprint-android-system-managemne
 - Review your employee attendance for 1 week, 1 month, 1 Years etc
 
 ![Attendance-login-system](https://user-images.githubusercontent.com/11581453/74153592-ee26cd80-4c4b-11ea-867d-4c7252e1d9cf.png)
-
 ![Attendance-login-system](https://user-images.githubusercontent.com/11581453/71766143-b8e5dc00-2f37-11ea-97ff-e973ea4d0a2a.png)
 
 # User Level
@@ -67,7 +65,6 @@ if($dataLevel == "is_admin"){
 <br><br>
 
 <br>
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # -----How to use this application ?
@@ -96,8 +93,6 @@ https://github.com/abedputra/attendance-with-fingerprint-management/wiki/Setting
 -Go to employee menu<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-<br>
 <br>
 <br>
 
